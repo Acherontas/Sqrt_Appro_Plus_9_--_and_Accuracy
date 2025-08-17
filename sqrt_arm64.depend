@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1749645839 source:/home/acherontas/codeblock/sqrt_arm64/main.cpp
+	<iostream>
+	<math.h>
+	<thread>
+
+1755424412 source:/home/acherontas/codeblocks/sqrt_arm64/main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<thread>
+
